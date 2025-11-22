@@ -91,6 +91,6 @@ For a detailed breakdown of performance metrics and model interpretations, pleas
 | :---: | :---: |
 | ![Confusion Matrix](./result/figures/confusion_matrix.png) | ![Feature Importance](./result/figures/feature_importance.png) |
 
-| SHAP Summary | ROC Curve |
+| Prediction Distribution | ROC Curve |
 | :---: | :---: |
-| ![SHAP Summary](./result/figures/shap_summary.png) | ![ROC Curve](./result/figures/roc_curve.png) |
+| ![Prediction Distribution](./result/figures/prediction_distribution.png) | ![ROC Curve](./result/figures/roc_curve.png) |
