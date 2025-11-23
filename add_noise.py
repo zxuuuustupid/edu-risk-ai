@@ -34,7 +34,7 @@ def inject_simple_outliers(data, outlier_prob=0.25, outlier_intensity=0.5):
     
     return outlier_data
 
-def apply_simple_missing(data, missing_prob=0.15):
+def apply_simple_missing(data, missing_prob=0.05):
     """简单的缺失值处理"""
     missing_data = data.copy()
     n_dims, n_steps = data.shape
